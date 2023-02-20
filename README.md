@@ -1,0 +1,2 @@
+# Space GraphQL
+I needed an GraphQL endpoint for one of my other learning projects and I am fascinated by everything space. The current SpaceX GraphQL implementation lacked images but I wanted to have some nice ones for my React FE learnings, hence I started from scratch following the Apollo docs and will create my own Space GraphQL endpoint here – with a lot of images of course.
